@@ -24,6 +24,8 @@ War Eagle！
 
 微信公众号：AuburnSSA
 
+投稿：admin@aussa.org
+
 ## 更新历史
 
 2018.04.18 正式上线
