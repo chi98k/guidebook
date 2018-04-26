@@ -12,6 +12,8 @@
 
 某些系里的机房，可能会有AU 账户登录不进去的状况，因为需要改一下密码才能用。同时也可以为你的邮箱设定Alias。
 
+学校很多楼里有wifi 的用户名密码就是你自己的AU 的账号和密码
+
 链接是接：[账户设定](https://oitapps.auburn.edu/myaccount/)
 
 ## Office of International Program \(OIP\)
