@@ -3,7 +3,7 @@
 * [奥本大学新生手册](README.md)
 * [学校简介](xue-xiao-jian-jie.md)
 * [行前准备](hang-qian-zhun-bei.md)
-* 入境美国
+* [入境美国](ru-jing-mei-guo.md)
 * [报道须知](untitled.md)
 * [衣食住行](yi-shi-zhu-hang.md)
 * [校园生活](xiao-yuan-sheng-huo.md)
